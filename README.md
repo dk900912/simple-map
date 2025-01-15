@@ -1,2 +1,1 @@
-# simple-map
-simple map implementations
+# simple-map implementations
