@@ -18,3 +18,7 @@ func (sm *SortedMap) Get(key string) (int, bool) {
 	}
 	return 0, false
 }
+
+func (sm *SortedMap) AllKeys() []string {
+	return sm.Keys
+}
